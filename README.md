@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to my profile! 👋</h1>
-<h3 align="center">I'm Rubén, a computer science engineering student from Spain </h3>
+<h3 align="center">I'm Rubén, a computer science engineering student from Spain</h3>
 
 ## About me
 
 - 👨‍🎓 Currently studying computer science engineering at **University of Málaga (UMA)**
 - 🌱 I'm learning C, Rust and Crystal
-- 😃 I'm interested in systems programming, web development and core blockchain development
+- 😃 I'm interested in full-stack development and systems programming.
 - 💬 Experience:
   - Python      - 4 years
   - Java        - 2 years
