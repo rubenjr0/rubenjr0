@@ -4,13 +4,13 @@
 ## About me
 
 - 👨‍🎓 Currently studying computer science engineering at **University of Málaga (UMA)**
-- 🌱 I'm learning C, Rust and Crystal
-- 😃 I'm interested in full-stack development and systems programming.
+- 🌱 I'm learning Rust, Crystal and functional programming
+- 😃 I'm interested in full-stack development and systems programming
 - 💬 Experience:
   - Python      - 4 years
   - Java        - 2 years
   - Javascript  - 2 years
-- 📫 Contact me: [rubenjr@uma.es](mailto:rubenjr@uma.es)
+- 📫 Contact me: [rubenjr0@protonmail.com](mailto:rubenjr0@protonmail.com)
 
 ## Some stats
 
