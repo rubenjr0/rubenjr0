@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to my profile! 👋</h1>
 <h3 align="center">I'm Rubén, a computer science engineering student from Spain</h3>
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 ## About me
 
 - 👨‍🎓 Currently studying computer science engineering at **University of Málaga (UMA)**
@@ -15,7 +17,6 @@
 - 📫 Contact me: 
   - [rubenjr0@protonmail.com](mailto:rubenjr0@protonmail.com)
   - [My LinkedIn](https://www.linkedin.com/in/rubenjr0/)
-- 🕸️ Take a look at my (W.I.P) [website!](http://rubenjr0.github.io/)
 
 <!---
 ## Some stats
